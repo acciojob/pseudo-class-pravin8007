@@ -4,13 +4,13 @@
 	margin : 20px ;
 }
 div::before{
-	content : "Before Element ";
+	content : "Before Element";
 	color : rgb(255,0,0) ;
 	font-size :20px ;
 }
 
 div::after{
-	content : " After Element";
+	content : "After Element";
 	color : rgb(255,0,0) ;
 	font-size : 20px;
 }
